@@ -1,1 +1,1 @@
-# Image_Caption_Detector
+# Image_Caption_Generator
